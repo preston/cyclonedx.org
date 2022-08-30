@@ -1259,3 +1259,11 @@
   websiteUrl: https://paloaltonetworks.com
   categories:
     - proprietary
+- name: sbom-report
+  publisher: Preston Lee
+  description: A command-line utility written in TypeScript for creating static reports from CycloneDX SBOM JSON files. Distributed as an npm package.
+  repoUrl: https://github.com/preston/sbom-report
+  websiteUrl: https://github.com/preston/sbom-report
+  categories:
+    - opensource
+    - markdown
